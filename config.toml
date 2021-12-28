@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://p.escandon.dev/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Phil Escandon"
